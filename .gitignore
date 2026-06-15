@@ -6,6 +6,7 @@
 *.wmv
 *.flv
 *.webm
+*.webp
 
 # Exports
-exports/
+!exports/.gitkeep
