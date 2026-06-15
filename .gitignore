@@ -1,0 +1,11 @@
+# Video files
+*.mkv
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+
+# Exports
+exports/
